@@ -1,0 +1,7 @@
+---
+- test: target
+- test/: target
+- Test: target
+- Test/: target
+- TEST: target
+- TEST/: target
